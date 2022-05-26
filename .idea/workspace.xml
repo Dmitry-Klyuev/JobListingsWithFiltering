@@ -1,43 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8c96992-2f68-4ecb-b7e5-0491712b8310" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/account.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/eyecam-co.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/faceit.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/insure.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/loop-studios.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/manage.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/myhome.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/photosnap.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shortly.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/the-air-filter-company.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/bg-header-desktop.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/bg-header-mobile.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/icon-remove.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mock/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/root-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+    <list default="true" id="f68c54d9-c98b-460c-97bc-2d2c3269b26f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/!files_for_work/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/README-template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/design/active-states.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/design/desktop-design.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/design/desktop-preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/design/mobile-design.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/design/mobile-with-filters.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/images/account.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/images/bg-header-desktop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/images/bg-header-mobile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/images/eyecam-co.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/images/faceit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/images/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/images/icon-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/images/insure.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/images/loop-studios.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/images/manage.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/images/myhome.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/images/photosnap.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/images/shortly.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/images/the-air-filter-company.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/!files_for_work/style-guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Badge.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Stack.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FilterPanel.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/JobList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/JobPosition.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TheHeader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/positions/position-actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/positions/position-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/positions/position-selectors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/root-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,7 +63,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="27hXeQqf9zaRUaukIfC3P3dqQc6" />
+  <component name="ProjectId" id="29hmELegrmQPXn3FTJT5JUbRxn7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,17 +74,36 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f8c96992-2f68-4ecb-b7e5-0491712b8310" name="Changes" comment="" />
-      <created>1649773390090</created>
+      <changelist id="f68c54d9-c98b-460c-97bc-2d2c3269b26f" name="Changes" comment="" />
+      <created>1653573582516</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1649773390090</updated>
-      <workItem from="1649773393819" duration="940000" />
+      <updated>1653573582516</updated>
+      <workItem from="1653573586463" duration="2062000" />
+      <workItem from="1653592559646" duration="3144000" />
     </task>
     <servers />
   </component>
