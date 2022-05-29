@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f68c54d9-c98b-460c-97bc-2d2c3269b26f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/!files_for_work/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/README-template.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/design/active-states.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/design/desktop-design.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/design/desktop-preview.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/design/mobile-design.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/design/mobile-with-filters.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/images/account.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/images/bg-header-desktop.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/images/bg-header-mobile.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/images/eyecam-co.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/images/faceit.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/images/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/images/icon-remove.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/images/insure.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/images/loop-studios.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/images/manage.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/images/myhome.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/images/photosnap.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/images/shortly.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/images/the-air-filter-company.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/!files_for_work/style-guide.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/Badge.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/Card.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/Stack.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FilterPanel.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/JobList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/JobPosition.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TheHeader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/positions/position-actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/positions/position-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/positions/position-selectors.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/root-reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FilterPanel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FilterPanel.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +20,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29hmELegrmQPXn3FTJT5JUbRxn7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -104,10 +74,26 @@
       <updated>1653573582516</updated>
       <workItem from="1653573586463" duration="2062000" />
       <workItem from="1653592559646" duration="3144000" />
+      <workItem from="1653835685746" duration="300000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add filters" />
+    <option name="LAST_COMMIT_MESSAGE" value="add filters" />
   </component>
 </project>
