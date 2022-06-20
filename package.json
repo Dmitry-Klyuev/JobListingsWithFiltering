@@ -2,7 +2,7 @@
   "name": "dashboard-app",
   "homepage": "https://Dmitry-Klyuev.github.io/JobListingsWithFiltering",
   "version": "0.1.0",
-  "author": "Dmitry-dev",
+  "author": "dmitry-dev",
   "private": true,
   "dependencies": {
     "@types/react-dom": "^18.0.5",
