@@ -30,7 +30,7 @@ const FilterPanel = () => {
 
         <button
           className='link'
-          onClick={() => dispatch(clearFilter)}
+          onClick={() => dispatch(clearFilter())}
         >Clear</button>
       </div>
     </Card>

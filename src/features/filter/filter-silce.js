@@ -13,9 +13,7 @@ const filterSlice = createSlice({
         removeFilter: (state, action) => {
             return state.filter(item => item !== action.payload);
         },
-        clearFilter: (state, action) => {
-            return [];
-        },
+        clearFilter: () => [],
     },
 });
 

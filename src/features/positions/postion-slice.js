@@ -5,12 +5,12 @@ const positionSlice = createSlice({
     name: '@@position',
     initialState: [],
     reducers: {
-        addPosition: (state, action) => action.payload,
+        addPositions: (state, action) => action.payload,
     },
 });
 
-export const {addPosition} = positionSlice.actions;
-export const {positionReducer} = positionSlice.reducer;
+export const {addPositions} = positionSlice.actions;
+export const positionReducer = positionSlice.reducer;
 
 export const selectVisiblePositions = (state, filters = []) => {
     if (filters.length === 0) return state.positions;

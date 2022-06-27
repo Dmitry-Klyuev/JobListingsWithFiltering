@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f68c54d9-c98b-460c-97bc-2d2c3269b26f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/features/filter/filter-silce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/positions/postion-slice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
+    <list default="true" id="f68c54d9-c98b-460c-97bc-2d2c3269b26f" name="Changes" comment="Refactor Redux Toolkit final">
+      <change afterPath="$PROJECT_DIR$/src/features/positions/use-fetch-positions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/positions/use-positions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FilterPanel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/filter/FilterPanel.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/JobList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/positions/JobList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/JobPosition.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/positions/JobPosition.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/filters/filter-actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/filters/filter-reducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/filters/filter-selectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/positions/position-actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/positions/position-reducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/positions/position-selectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/root-reducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/filter/FilterPanel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/filter/FilterPanel.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/filter/filter-silce.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/filter/filter-silce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/positions/JobList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/positions/JobList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/positions/postion-slice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/positions/postion-slice.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +115,7 @@
       <workItem from="1653836560473" duration="2916000" />
       <workItem from="1653911444084" duration="1200000" />
       <workItem from="1655734632028" duration="2683000" />
-      <workItem from="1656331619128" duration="3989000" />
+      <workItem from="1656331619128" duration="6750000" />
     </task>
     <task id="LOCAL-00001" summary="add filters and logic">
       <created>1653836641489</created>
@@ -156,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655736967920</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Refactor Redux Toolkit">
+      <created>1656338021440</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656338021440</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +173,8 @@
     <MESSAGE value="add filters" />
     <MESSAGE value="add filters and logic" />
     <MESSAGE value="add persist" />
-    <option name="LAST_COMMIT_MESSAGE" value="add persist" />
+    <MESSAGE value="Refactor Redux Toolkit" />
+    <MESSAGE value="Refactor Redux Toolkit final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor Redux Toolkit final" />
   </component>
 </project>
